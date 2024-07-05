@@ -259,10 +259,17 @@ button:hover .letrasbotao2 {
         font-size: 8px;
     }
 
-    button {
+    .buttonpag {
         font-size: 10px;
         width: 100px;
         height: 30px;
+    }
+
+    .buttonmodal {
+        font-size: 9px;
+        width: 50px;
+        height: 20px;
+        align-items: center;
     }
 
     .modal {
@@ -270,12 +277,4 @@ button:hover .letrasbotao2 {
         justify-content: center;
         align-items: center;
     }
-    
-    .conteudomodal {
-        
-    }
-}
-
-@media screen and (max-width: 600px) {
-    
 }
