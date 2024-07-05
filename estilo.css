@@ -277,4 +277,8 @@ button:hover .letrasbotao2 {
         justify-content: center;
         align-items: center;
     }
+
+    .hidden {
+        visibility: hidden;
+    }
 }
